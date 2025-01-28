@@ -22,10 +22,11 @@ For large disclosures, you can promote your data science or web dev contribution
 
 ## 🚀 Get Started
 
-1. **Clone the repo** and explore active projects.
-2. **Find, share, or clean data**: Every row of data makes a difference.
+1. **Explore** [the repos](https://github.com/orgs/OSEMSAUCE/repositories) and active projects.
+2. **Find, clean, share data**: Every row of data makes a difference. See below for data details. 
 3. **Join discussions** by opening issues or contributing directly to ongoing projects.
 4. **Spread the word**: Help grow the movement and encourage others to contribute!
+5. **Reach out**: if you're serious about helping and you think you can find some great reforestation data please reach out. 
 
 ---
 
