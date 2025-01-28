@@ -6,6 +6,21 @@ OSEM🤘🌲 is A collaboration of awesome people who want environmental work to
 
 **Please join us; there is TONS of work to be done.**
 
+## be OSEM!
+
+**YOU** or person / org that contributes, is OSEM🤘🌲. Please contribute much-needed reforestation data, or web dev work, and you'll be OSEM🤘🌲 forever we promise. 
+For large disclosures, you can promote your data science or web dev contributions as OSEM🤘🌲.  For real big disclosures we use our sister org - [Ground Truth Forest News](https://groundtruth.app/) to write and promote your work as actual news stories 📢️
+
+
+---
+
+## 🚀 Get Started
+
+1. **Clone the repo** and explore active projects.
+2. **Find, share, or clean data**: Every row of data makes a difference.
+3. **Join discussions** by opening issues or contributing directly to ongoing projects.
+4. **Spread the word**: Help grow the movement and encourage others to contribute!
+
 ---
 
 ## 🌳 We Need Your Help: Contribute Tree Planting Data
@@ -46,12 +61,12 @@ Love to code? We need developers to:
 
 ## 🌟 Why This Matters
 
-Reforestation is critical in fighting climate change, but the ESG side of industry arouses a lot of valid questions of unverifiable claims, vague reporting, and other BS. This harms funders, ecosystems, and those of us who work our asses off to plant trees and do other legitimate environmental good. 
+While reforestation is critical in fighting climate change, it also raises a lot of valid questions about validity claims, vague reporting, and other BS. This harms funders, ecosystems, and those of us who work our asses off to plant trees and do other legitimate environmental good. 
 
 This project:
-- Tracks global reforestation production and shares it as clean transparent data set available for everyone, no strings attached. 
+- Tracks global reforestation production and shares it as clean, transparent data sets available for everyone, no strings attached. 
 - Promotes transparency and accountability.
-- Elevates the quality of reforestation work worldside worldwide
+- Elevates the quality of reforestation work worldwide
 - is run and managed by actual reforestation: workers, contractors, and software developers.
 
 ---
@@ -67,13 +82,8 @@ This project:
 
 ## ⚖️ License and Branding
 
-All code in this repository is licensed under the MIT license, making it open and accessible to everyone. However, the name and logo of OSEM🤘🌲 are owned by **Ground Truth Data Inc.** and may not be used without explicit permission. Please contribute data and good will about the project's mission, that's all we ask.
+All code in this repository is licensed under the MIT license, making it open and accessible to everyone. However, the name and logo of OSEM🤘🌲 are owned by **Ground Truth Data Inc.** and may not be used without explicit permission. Please contribute data and goodwill about the project's mission, that's all we ask.
 
 ---
-
-## be OSEM!
-
-YOU or anyone, or any company that get's us refoerstation data is OSEM🤘🌲. if that sounds like you, please contribute much needed data and you'll be OSEM🤘🌲 forever we promise 🌲️✌️. 
-
 
 Have questions or ideas? Drop a comment, open an issue, or DM us. Let’s plant a trillion trees for real! 🌲️🌲️🌳️🌳️🌴️
