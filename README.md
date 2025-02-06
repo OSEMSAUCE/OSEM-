@@ -2,7 +2,7 @@
 # OSEM🤘🌲
 ## Open Source Environmental Movement
 
-OSEM is about making the environmental field transparent. It's the *evidence* part of evidence based-reasoning. If thats what you're into than you're awesome👍️🌲️.
+OSEM is about making the environmental work transparent. It's about *evidence* based-reasoning, evidence in science, proof and showing your work.
 
 Our primary task atm is making a huge repo of reforestation data. Tree planting campaigns raise a lot of very good questions which we will answer using an open source database. 
 
